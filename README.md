@@ -4,7 +4,7 @@ A .NET library for creating clients for the dataPARC.DataSeries services
 
 ## Documentation
 
-See the [docs](https://dataparc.github.io/dataPARC.DataSeries.SDK/docs/V1.0.0.0/) for full API reference.
+See the [docs](https://dataparc.github.io/dataPARC.DataSeries.SDK/docs/v1.0.0/) for full API reference.
 
 ## Prerequisites
 
