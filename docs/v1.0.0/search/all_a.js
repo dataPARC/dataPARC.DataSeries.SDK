@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['readattimebulk_0',['ReadAtTimeBulk',['../d4/d8c/a00035.html#a2fd91e2db534243c1d640bc3dd24955d',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readattimeparameters_1',['ReadAtTimeParameters',['../dd/da2/a00019.html#ab73ef0f7e56eba422ed236716825c6fe',1,'dataPARC::DataSeries::SDK']]],
+  ['readcurrentvalueparameters_2',['ReadCurrentValueParameters',['../dd/da2/a00019.html#ab0104da33fa7bf18e70787c2006fac94',1,'dataPARC::DataSeries::SDK']]],
+  ['readcurrentvalues_3',['ReadCurrentValues',['../d4/d8c/a00035.html#a5ca6f884faaf44e4a5d26998879d16fd',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readdatabyaggregatebulk_4',['ReadDataByAggregateBulk',['../d4/d8c/a00035.html#ab934caf9f3e9b95ab6b0923a8e874dd5',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readdatatyperesult_5',['ReadDataTypeResult',['../dd/da2/a00019.html#af1801063fb422c93eda150cbe6ffbd4c',1,'dataPARC::DataSeries::SDK']]],
+  ['readraw_6',['ReadRaw',['../d4/d8c/a00035.html#a2ab416961fb993a478a47e29dd92361a',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readrawbulk_7',['ReadRawBulk',['../d4/d8c/a00035.html#a67f2d4072775f7108bdcd11a2c0e3b95',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readrawbulkparameters_8',['ReadRawBulkParameters',['../dd/da2/a00019.html#aa2879b0a025c037660ed5996bfb17cb3',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawerror_9',['ReadRawError',['../dd/da2/a00019.html#a945f2ce7c20933227805d18160d3e945',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawparameters_10',['ReadRawParameters',['../dd/da2/a00019.html#aeed466b2ee79b4e1c9c18b9372e45752',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawresult_11',['ReadRawResult',['../dd/da2/a00019.html#ac90446873674375e2aa53c308c868acc',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawtagparameters_12',['ReadRawTagParameters',['../dd/da2/a00019.html#a9faf93a9c73a55f04a256d4a0e3a9f5f',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawtocurrentvalueparameters_13',['ReadRawToCurrentValueParameters',['../dd/da2/a00019.html#a90bdff09fe8cb0d5a187f90033b2ed0f',1,'dataPARC::DataSeries::SDK']]],
+  ['readrawtocurrentvalues_14',['ReadRawToCurrentValues',['../d4/d8c/a00035.html#a18ceb49c791c67acb4bb87b28874290c',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readsourceinfo_15',['ReadSourceInfo',['../d4/d8c/a00035.html#ace0c7727e5df53cffa5e85a6202d68ef',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readsourceinfobulk_16',['ReadSourceInfoBulk',['../d4/d8c/a00035.html#a84625ebb737e902d01bed8cfce4b0473',1,'dataPARC::DataSeries::SDK::DataSeriesClient']]],
+  ['readsourceinfoerror_17',['ReadSourceInfoError',['../dd/da2/a00019.html#a3350aae3049e1d857e75a2480dcd9c38',1,'dataPARC::DataSeries::SDK']]],
+  ['readsourceinfoparameters_18',['ReadSourceInfoParameters',['../dd/da2/a00019.html#adfe41761ffb2aec5c792bb84f71c24cf',1,'dataPARC::DataSeries::SDK']]],
+  ['readsourceinforesult_19',['ReadSourceInfoResult',['../dd/da2/a00019.html#ad08cb7a5c068601ac68c94b1c9aea8b3',1,'dataPARC::DataSeries::SDK']]],
+  ['ref_20ignore_20dataparc_20dataseries_20dataparc_20dataseries_20sdk_20',['\ref ignore.dataPARC.DataSeries &quot;dataPARC.DataSeries&quot; SDK',['../index.html',1,'']]],
+  ['runnormalizationmode_21',['RunNormalizationMode',['../dd/da2/a00019.html#a75a6a25164745ec80e9890faa69a8380',1,'dataPARC::DataSeries::SDK']]]
+];
