@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tagquery_0',['TagQuery',['../d3/de7/a00039.html',1,'dataPARC::DataSeries::SDK']]]
+  ['tagquery_0',['TagQuery',['../d1/d22/a00057.html',1,'dataPARC::DataSeries::SDK']]]
 ];
