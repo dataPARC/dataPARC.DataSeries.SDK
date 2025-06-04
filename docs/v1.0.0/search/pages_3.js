@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sdk_0',['\ref ignore.dataPARC.DataSeries &quot;dataPARC.DataSeries&quot; SDK',['../index.html',1,'']]]
+  ['points_0',['Starting Points',['../index.html#autotoc_md2',1,'']]]
 ];

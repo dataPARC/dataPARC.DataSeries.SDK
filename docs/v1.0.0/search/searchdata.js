@@ -5,7 +5,7 @@ var indexSectionsWithContent =
   2: "d",
   3: "bdefglqrst",
   4: "adirt",
-  5: "dirs"
+  5: "deips"
 };
 
 var indexSectionNames =

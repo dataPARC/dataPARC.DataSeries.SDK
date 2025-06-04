@@ -20,6 +20,5 @@ var searchData=
   ['readsourceinfoerror_17',['ReadSourceInfoError',['../dc/d3c/a00028.html#a3350aae3049e1d857e75a2480dcd9c38',1,'dataPARC::DataSeries::SDK']]],
   ['readsourceinfoparameters_18',['ReadSourceInfoParameters',['../dc/d3c/a00028.html#adfe41761ffb2aec5c792bb84f71c24cf',1,'dataPARC::DataSeries::SDK']]],
   ['readsourceinforesult_19',['ReadSourceInfoResult',['../dc/d3c/a00028.html#ad08cb7a5c068601ac68c94b1c9aea8b3',1,'dataPARC::DataSeries::SDK']]],
-  ['ref_20ignore_20dataparc_20dataseries_20dataparc_20dataseries_20sdk_20',['\ref ignore.dataPARC.DataSeries &quot;dataPARC.DataSeries&quot; SDK',['../index.html',1,'']]],
-  ['runnormalizationmode_21',['RunNormalizationMode',['../dc/d3c/a00028.html#a75a6a25164745ec80e9890faa69a8380',1,'dataPARC::DataSeries::SDK']]]
+  ['runnormalizationmode_20',['RunNormalizationMode',['../dc/d3c/a00028.html#a75a6a25164745ec80e9890faa69a8380',1,'dataPARC::DataSeries::SDK']]]
 ];
